@@ -84,3 +84,11 @@
 	> create human readabe word using class Meta
 
 	> displaying name as name, NOT as an object in admin panel
+
+## 4. Adding Slug in Meals
+
+	> import slugify to the model
+
+	> add slug to the Meals model
+
+	> add slug def to the model
