@@ -1486,3 +1486,9 @@ textarea.form-control {
     stroke-dashoffset: -136px;
   }
 }
+
+/* CUSTOMISE CSS*/
+
+.meal_img {
+  width: 100% !important;
+}

@@ -130,4 +130,10 @@
 
 	> use block to use base.html and list.html
 
-	> load css and js	
+	> load css and js
+
+## 9. Adding Templates Part 2
+
+	> add detail.html page
+
+	> display meal detail 
