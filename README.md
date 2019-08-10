@@ -92,3 +92,8 @@
 	> add slug to the Meals model
 
 	> add slug def to the model
+
+## 5. Setup Static & Media
+
+	> Add static media root dir to settings
+	> Import settings, static file to project's url
