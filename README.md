@@ -100,10 +100,20 @@
 
 ## 6. Adding Meals List View
 
-		> include the meals's url to project url
+	> include the meals's url to project url
 
-		> define urlpatterns in meals's url
+	> define urlpatterns in meals's url
 
-		> create template/Meals/list.html in meals
+	> create template/Meals/list.html in meals
 
-		> def in views to display the list.html 
+	> def in views to display the list.html
+
+## 7. Adding Meals Detail View
+
+	> in views add mail_detail
+
+	> in url add the path using slug
+
+	> create detail.html in Template/Meals
+
+	> display the detail meal
