@@ -72,3 +72,15 @@
 9. Create superuser
 
 	> python manage.py createsuperuser
+
+## 3. Creating Our Meals App
+
+	> python manage.py startapp meals
+
+	> create Meals model
+
+	> register Meals model to admin.py
+
+	> create human readabe word using class Meta
+
+	> displaying name as name, NOT as an object in admin panel
