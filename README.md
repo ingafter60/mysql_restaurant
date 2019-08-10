@@ -136,4 +136,16 @@
 
 	> add detail.html page
 
-	> display meal detail 
+	> display meal detail
+
+## 10. Adding Category Models
+
+	> create Category model
+
+	> add Category as FK in Meals model
+	
+	> create class Meta
+
+	> create human readable Category
+
+	> add category to views as part of meal_list
