@@ -117,3 +117,17 @@
 	> create detail.html in Template/Meals
 
 	> display the detail meal
+
+## 8. Adding Templates Part 1
+
+	> add static files
+
+	> add template and base html
+
+	> add list html (ex index.html)
+
+	> load static files
+
+	> use block to use base.html and list.html
+
+	> load css and js	
