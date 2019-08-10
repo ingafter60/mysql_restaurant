@@ -97,3 +97,13 @@
 
 	> Add static media root dir to settings
 	> Import settings, static file to project's url
+
+## 6. Adding Meals List View
+
+		> include the meals's url to project url
+
+		> define urlpatterns in meals's url
+
+		> create template/Meals/list.html in meals
+
+		> def in views to display the list.html 
