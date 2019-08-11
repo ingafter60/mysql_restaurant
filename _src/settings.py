@@ -40,6 +40,7 @@ INSTALLED_APPS = [
 
     # new apps
     'meals',
+    'reservation',
 ]
 
 MIDDLEWARE = [

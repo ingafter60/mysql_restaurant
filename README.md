@@ -149,3 +149,24 @@
 	> create human readable Category
 
 	> add category to views as part of meal_list
+
+
+## 12. Adding Reserve Table model
+
+	> create reservation app
+
+	> add to reservation: templates/Reservation/reservation.html
+
+	> register the new app
+
+	> create Reservation model
+
+	> register reservation in admin
+
+	> migrations and migrate + check the result in admin + test it out
+
+	> add to views
+
+	> create a new urls.py + app_name = 'reservation' 
+
+	> add route path in main urls.py
